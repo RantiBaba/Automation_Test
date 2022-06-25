@@ -14,9 +14,9 @@ Steps
 
 
 # Application under test (AUT)
+http://automationpractice.com/index.php
 
-[http://automationpractice.com/index.php]
-
+# This test is written with Javascript and run using https://www.cypress.io/
 
 # Running this test on your local machine using cypress test runner
 
