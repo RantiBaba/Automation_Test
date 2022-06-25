@@ -27,4 +27,3 @@ Steps
 * Execute '**npx cypress open**' to start cypress GUI runner
 * click on the test to run it.
 * If you aren't familiar with executing cypress tests, please see - (https://docs.cypress.io/guides/core-concepts/writing-and-organizing-tests.html#Run-all-specs)
-
